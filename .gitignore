@@ -1,0 +1,17 @@
+# 本地工作交接文档，含本机路径与内部记录，不进公开仓库
+HANDOFF.md
+STATE.json
+
+# 备份与临时产物
+_备份/
+*.bak
+*.bak_*
+*.log
+*.tmp
+
+# 编辑器与系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
