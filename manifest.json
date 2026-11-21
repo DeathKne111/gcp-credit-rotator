@@ -1,0 +1,13 @@
+{
+  "display_name": "GCP 赠金轮询",
+  "loading_order": 60,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "DeathKne111",
+  "version": "1.0.0",
+  "hooks": {
+    "activate": "init"
+  }
+}
